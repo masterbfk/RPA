@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\TEST01\TEST01\bin\Debug\TEST01.exe.config
+C:\Users\asus\source\repos\TEST01\TEST01\bin\Debug\TEST01.exe
+C:\Users\asus\source\repos\TEST01\TEST01\bin\Debug\TEST01.pdb
+C:\Users\asus\source\repos\TEST01\TEST01\bin\Debug\EPPlus.dll
+C:\Users\asus\source\repos\TEST01\TEST01\bin\Debug\EPPlus.xml
+C:\Users\asus\source\repos\TEST01\TEST01\obj\Debug\TEST01.Form1.resources
+C:\Users\asus\source\repos\TEST01\TEST01\obj\Debug\TEST01.Properties.Resources.resources
+C:\Users\asus\source\repos\TEST01\TEST01\obj\Debug\TEST01.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\TEST01\TEST01\obj\Debug\TEST01.csproj.CopyComplete
+C:\Users\asus\source\repos\TEST01\TEST01\obj\Debug\TEST01.exe
+C:\Users\asus\source\repos\TEST01\TEST01\obj\Debug\TEST01.pdb
+C:\Users\asus\source\repos\TEST01\TEST01\obj\Debug\TEST01.csprojAssemblyReference.cache
